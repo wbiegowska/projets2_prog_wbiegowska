@@ -1,0 +1,2 @@
+Auteur;Fichier;OCR;VP;FP;FN;Précision;Rappel;F-score
+DASH;DASH_chateau-de-Pinon-V1;TesseractFra-PNG;526;119;248;0.8155038759689922;0.6795865633074936;0.7413671599718111

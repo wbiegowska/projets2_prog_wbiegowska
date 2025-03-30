@@ -1,0 +1,2 @@
+Auteur;Fichier;OCR;VP;FP;FN;Précision;Rappel;F-score
+FLAUBERT;FLAUBERT_education-sentimentale;Kraken-base;944;299;1289;0.7594529364440868;0.42274966412897447;0.5431530494821635

@@ -1,0 +1,2 @@
+Auteur;Fichier;OCR;VP;FP;FN;Précision;Rappel;F-score
+FLAUBERT;FLAUBERT_education-sentimentale;TesseractFra-PNG;1536;339;668;0.8192;0.6969147005444646;0.7531257661191468

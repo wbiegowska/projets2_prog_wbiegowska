@@ -1,0 +1,2 @@
+Auteur;Fichier;OCR;VP;FP;FN;Précision;Rappel;F-score
+NOAILLES;NOAILLES_la-nouvelle-esperance;Kraken-base;292;95;318;0.7545219638242894;0.4786885245901639;0.5857572718154463

@@ -1,0 +1,2387 @@
+{
+  "LHOTELLERIE": {
+    "POS": "PROPN"
+  },
+  "Saint-Honor\u00e9": {
+    "POS": "PROPN"
+  },
+  "cocher": {
+    "POS": "PROPN"
+  },
+  "Saint-Gabriel": {
+    "POS": "PROPN"
+  },
+  "PINON": {
+    "POS": "PROPN"
+  },
+  "portese": {
+    "POS": "PROPN"
+  },
+  "re-": {
+    "POS": "PROPN"
+  },
+  "|": {
+    "POS": "PROPN"
+  },
+  "Lameth": {
+    "POS": "PROPN"
+  },
+  "serge": {
+    "POS": "PROPN"
+  },
+  "Lorsquon": {
+    "POS": "PROPN"
+  },
+  "Eh": {
+    "POS": "PROPN"
+  },
+  "Louison": {
+    "POS": "PROPN"
+  },
+  "c1": {
+    "POS": "PROPN"
+  },
+  "mademoiselle": {
+    "POS": "PROPN"
+  },
+  "Paris": {
+    "POS": "PROPN"
+  },
+  "Bussy": {
+    "POS": "PROPN"
+  },
+  "Cest": {
+    "POS": "PROPN"
+  },
+  "Sissone": {
+    "POS": "PROPN"
+  },
+  "der-": {
+    "POS": "PROPN"
+  },
+  "jentendis": {
+    "POS": "PROPN"
+  },
+  "Dabord": {
+    "POS": "PROPN"
+  },
+  "Henrietie": {
+    "POS": "PROPN"
+  },
+  "Henriette": {
+    "POS": "PROPN"
+  },
+  "savez": {
+    "POS": "PROPN"
+  },
+  "Jai": {
+    "POS": "PROPN"
+  },
+  "ai-": {
+    "POS": "PROPN"
+  },
+  "Pinon": {
+    "POS": "PROPN"
+  },
+  "d\u00e9": {
+    "POS": "PROPN"
+  },
+  "C\u00e9d\u00e9z": {
+    "POS": "PROPN"
+  },
+  "demand\u00e9ra": {
+    "POS": "PROPN"
+  },
+  "Picardie": {
+    "POS": "PROPN"
+  },
+  "n\u00f4us": {
+    "POS": "PROPN"
+  },
+  "Roucy": {
+    "POS": "PROPN"
+  },
+  "irons": {
+    "POS": "PROPN"
+  },
+  "\u00e4ux": {
+    "POS": "PROPN"
+  },
+  "L\u00c9": {
+    "POS": "PROPN"
+  },
+  "D\u00c9": {
+    "POS": "PROPN"
+  },
+  "d\u00e9ran-": {
+    "POS": "PROPN"
+  },
+  "Mademoiselle": {
+    "POS": "PROPN"
+  },
+  "des-": {
+    "POS": "PROPN"
+  },
+  "my": {
+    "POS": "PROPN"
+  },
+  "loracle": {
+    "POS": "PROPN"
+  },
+  "coque-": {
+    "POS": "PROPN"
+  },
+  "luchon": {
+    "POS": "PROPN"
+  },
+  "d\u00e9dain": {
+    "POS": "PROPN"
+  },
+  "lecon": {
+    "POS": "PROPN"
+  },
+  "d\u00e9b\u00e8ne": {
+    "POS": "PROPN"
+  },
+  "etsurmon-": {
+    "POS": "PROPN"
+  },
+  "t\u00e9s": {
+    "POS": "PROPN"
+  },
+  "com-": {
+    "POS": "PROPN"
+  },
+  "bre": {
+    "POS": "PROPN"
+  },
+  "pou\u00ef": {
+    "POS": "PROPN"
+  },
+  "Dieu": {
+    "POS": "PROPN"
+  },
+  "r\u00e9chappe": {
+    "POS": "PROPN"
+  },
+  "Lentr\u00e9e": {
+    "POS": "PROPN"
+  },
+  "\u00e9ouvert": {
+    "POS": "PROPN"
+  },
+  "\u00e9t": {
+    "POS": "PROPN"
+  },
+  "po-": {
+    "POS": "PROPN"
+  },
+  "Ny": {
+    "POS": "PROPN"
+  },
+  "t1l": {
+    "POS": "PROPN"
+  },
+  "beau\u00fccoup": {
+    "POS": "PROPN"
+  },
+  "C\u00eb\u00e9": {
+    "POS": "PROPN"
+  },
+  "La-": {
+    "POS": "PROPN"
+  },
+  "Cy": {
+    "POS": "PROPN"
+  },
+  "desti-": {
+    "POS": "PROPN"
+  },
+  "C\u00e9-": {
+    "POS": "PROPN"
+  },
+  "res-": {
+    "POS": "PROPN"
+  },
+  "Jui": {
+    "POS": "PROPN"
+  },
+  "j\u00e9unesse": {
+    "POS": "PROPN"
+  },
+  "s\u00e9cria": {
+    "POS": "PROPN"
+  },
+  "Jen": {
+    "POS": "PROPN"
+  },
+  "sone": {
+    "POS": "PROPN"
+  },
+  "mer-": {
+    "POS": "PROPN"
+  },
+  "Beaupr\u00e9": {
+    "POS": "PROPN"
+  },
+  "RL": {
+    "POS": "PROPN"
+  },
+  "co-": {
+    "POS": "PROPN"
+  },
+  "irez": {
+    "POS": "PROPN"
+  },
+  "Jirai": {
+    "POS": "PROPN"
+  },
+  "Versailles": {
+    "POS": "PROPN"
+  },
+  "se-": {
+    "POS": "PROPN"
+  },
+  "J\u00e0": {
+    "POS": "PROPN"
+  },
+  "Chardu": {
+    "POS": "PROPN"
+  },
+  "Laon": {
+    "POS": "PROPN"
+  },
+  "Pmon": {
+    "POS": "PROPN"
+  },
+  "feue": {
+    "POS": "PROPN"
+  },
+  "vier": {
+    "POS": "PROPN"
+  },
+  "man-": {
+    "POS": "PROPN"
+  },
+  "D\u00e8sle": {
+    "POS": "PROPN"
+  },
+  "Hon-": {
+    "POS": "PROPN"
+  },
+  "Venise": {
+    "POS": "PROPN"
+  },
+  "Arrange": {
+    "POS": "PROPN"
+  },
+  "lai": {
+    "POS": "PROPN"
+  },
+  "France": {
+    "POS": "PROPN"
+  },
+  "Lorsquelle": {
+    "POS": "PROPN"
+  },
+  "dicourt": {
+    "POS": "PROPN"
+  },
+  "jura": {
+    "POS": "PROPN"
+  },
+  "quit-": {
+    "POS": "PROPN"
+  },
+  "Pons": {
+    "POS": "PROPN"
+  },
+  "Montespan": {
+    "POS": "PROPN"
+  },
+  "sa-": {
+    "POS": "PROPN"
+  },
+  "Sire": {
+    "POS": "PROPN"
+  },
+  "pen-": {
+    "POS": "PROPN"
+  },
+  "1ra": {
+    "POS": "PROPN"
+  },
+  "Tonnay": {
+    "POS": "PROPN"
+  },
+  "Charente": {
+    "POS": "PROPN"
+  },
+  "Ma-": {
+    "POS": "PROPN"
+  },
+  "prenez-": {
+    "POS": "PROPN"
+  },
+  "Valli\u00e8re": {
+    "POS": "PROPN"
+  },
+  "Picard": {
+    "POS": "PROPN"
+  },
+  "dOrl\u00e9ans": {
+    "POS": "PROPN"
+  },
+  "Louis": {
+    "POS": "PROPN"
+  },
+  "XIV": {
+    "POS": "PROPN"
+  },
+  "brus-": {
+    "POS": "PROPN"
+  },
+  "lexces-": {
+    "POS": "PROPN"
+  },
+  "la-": {
+    "POS": "PROPN"
+  },
+  "Voyez": {
+    "POS": "PROPN"
+  },
+  "don-": {
+    "POS": "PROPN"
+  },
+  "dehoux": {
+    "POS": "PROPN"
+  },
+  "Euss\u00e9": {
+    "POS": "PROPN"
+  },
+  "Carrousel": {
+    "POS": "PROPN"
+  },
+  "per-": {
+    "POS": "PROPN"
+  },
+  "Navarre": {
+    "POS": "PROPN"
+  },
+  "Hautefort": {
+    "POS": "PROPN"
+  },
+  "Charles": {
+    "POS": "PROPN"
+  },
+  "Amani-": {
+    "POS": "PROPN"
+  },
+  "prince": {
+    "POS": "PROPN"
+  },
+  "Mortagne": {
+    "POS": "PROPN"
+  },
+  "Mossant": {
+    "POS": "PROPN"
+  },
+  "Vorray": {
+    "POS": "PROPN"
+  },
+  "Gerder\u00e9": {
+    "POS": "PROPN"
+  },
+  "Henri": {
+    "POS": "PROPN"
+  },
+  "Mothe": {
+    "POS": "PROPN"
+  },
+  "Lui": {
+    "POS": "PROPN"
+  },
+  "-on": {
+    "POS": "PROPN"
+  },
+  "jusquici": {
+    "POS": "PROPN"
+  },
+  "Rochefort": {
+    "POS": "PROPN"
+  },
+  "pre-": {
+    "POS": "PROPN"
+  },
+  "Coss\u00e9": {
+    "POS": "PROPN"
+  },
+  "Jaccepte": {
+    "POS": "PROPN"
+  },
+  "rietle": {
+    "POS": "PROPN"
+  },
+  "ch\u0153ur": {
+    "POS": "PROPN"
+  },
+  "Navailles": {
+    "POS": "PROPN"
+  },
+  "r\u00e9-": {
+    "POS": "PROPN"
+  },
+  "coqueltes": {
+    "POS": "PROPN"
+  },
+  "\u00d4": {
+    "POS": "PROPN"
+  },
+  "rompit": {
+    "POS": "PROPN"
+  },
+  "lon": {
+    "POS": "PROPN"
+  },
+  "au-": {
+    "POS": "PROPN"
+  },
+  "Ja": {
+    "POS": "PROPN"
+  },
+  "ma-": {
+    "POS": "PROPN"
+  },
+  "etson": {
+    "POS": "PROPN"
+  },
+  "Lavalli\u00e8re": {
+    "POS": "PROPN"
+  },
+  "piti\u00e9": {
+    "POS": "PROPN"
+  },
+  "Rouey": {
+    "POS": "PROPN"
+  },
+  "jusquau": {
+    "POS": "PROPN"
+  },
+  "Diane": {
+    "POS": "PROPN"
+  },
+  "mar-": {
+    "POS": "PROPN"
+  },
+  "Lafarre": {
+    "POS": "PROPN"
+  },
+  "Allemagne": {
+    "POS": "PROPN"
+  },
+  "Cho\u00efisissez": {
+    "POS": "PROPN"
+  },
+  "ob-": {
+    "POS": "PROPN"
+  },
+  "cel-": {
+    "POS": "PROPN"
+  },
+  "cher-": {
+    "POS": "PROPN"
+  },
+  "cia": {
+    "POS": "PROPN"
+  },
+  "\u00cel": {
+    "POS": "PROPN"
+  },
+  "Picarde": {
+    "POS": "PROPN"
+  },
+  "PINOX": {
+    "POS": "PROPN"
+  },
+  "gie": {
+    "POS": "PROPN"
+  },
+  "Celte": {
+    "POS": "PROPN"
+  },
+  "jose": {
+    "POS": "PROPN"
+  },
+  "DALBRET": {
+    "POS": "PROPN"
+  },
+  "ro": {
+    "POS": "PROPN"
+  },
+  "ge": {
+    "POS": "PROPN"
+  },
+  "jo": {
+    "POS": "PROPN"
+  },
+  "mamuse": {
+    "POS": "PROPN"
+  },
+  "tinua": {
+    "POS": "PROPN"
+  },
+  "Benserade": {
+    "POS": "PROPN"
+  },
+  "Rochetort": {
+    "POS": "PROPN"
+  },
+  "minauda": {
+    "POS": "PROPN"
+  },
+  "DB": {
+    "POS": "PROPN"
+  },
+  "Voulez": {
+    "POS": "PROPN"
+  },
+  "Laissons": {
+    "POS": "PROPN"
+  },
+  "Klle": {
+    "POS": "PROPN"
+  },
+  "Montes-": {
+    "POS": "PROPN"
+  },
+  "mo-": {
+    "POS": "PROPN"
+  },
+  "jeu-": {
+    "POS": "PROPN"
+  },
+  "che-": {
+    "POS": "PROPN"
+  },
+  "Jusquici": {
+    "POS": "PROPN"
+  },
+  "Ludre": {
+    "POS": "PROPN"
+  },
+  "concetti": {
+    "POS": "PROPN"
+  },
+  "renferma": {
+    "POS": "PROPN"
+  },
+  "Lhonneur": {
+    "POS": "PROPN"
+  },
+  "corail": {
+    "POS": "PROPN"
+  },
+  "pa-": {
+    "POS": "PROPN"
+  },
+  "sinclina": {
+    "POS": "PROPN"
+  },
+  "Javais": {
+    "POS": "PROPN"
+  },
+  "Quimporte": {
+    "POS": "PROPN"
+  },
+  "ersonnages": {
+    "POS": "PROPN"
+  },
+  "sengagea": {
+    "POS": "PROPN"
+  },
+  "Fontainebleau": {
+    "POS": "PROPN"
+  },
+  "Lauzun": {
+    "POS": "PROPN"
+  },
+  "plai-": {
+    "POS": "PROPN"
+  },
+  "Ia": {
+    "POS": "PROPN"
+  },
+  "devina": {
+    "POS": "PROPN"
+  },
+  "Marie-Th\u00e9r\u00e8se": {
+    "POS": "PROPN"
+  },
+  "sup-": {
+    "POS": "PROPN"
+  },
+  "\u00fcon": {
+    "POS": "PROPN"
+  },
+  "toute-": {
+    "POS": "PROPN"
+  },
+  "Na-": {
+    "POS": "PROPN"
+  },
+  "Houdancourt": {
+    "POS": "PROPN"
+  },
+  "pr\u00e9occupa-": {
+    "POS": "PROPN"
+  },
+  "Lesp\u00e8ce": {
+    "POS": "PROPN"
+  },
+  "Nile": {
+    "POS": "PROPN"
+  },
+  "nOu-": {
+    "POS": "PROPN"
+  },
+  "lexpia": {
+    "POS": "PROPN"
+  },
+  "Pignerol": {
+    "POS": "PROPN"
+  },
+  "Fran\u00e7ois": {
+    "POS": "PROPN"
+  },
+  "chas-": {
+    "POS": "PROPN"
+  },
+  "Lamour": {
+    "POS": "PROPN"
+  },
+  "\u00e9taientretour-": {
+    "POS": "PROPN"
+  },
+  "aper-": {
+    "POS": "PROPN"
+  },
+  "Lorsquils": {
+    "POS": "PROPN"
+  },
+  "compa-": {
+    "POS": "PROPN"
+  },
+  "DF": {
+    "POS": "PROPN"
+  },
+  "Prononcez": {
+    "POS": "PROPN"
+  },
+  "\u00a9": {
+    "POS": "PROPN"
+  },
+  "Nommez": {
+    "POS": "PROPN"
+  },
+  "gs": {
+    "POS": "PROPN"
+  },
+  "Emme": {
+    "POS": "PROPN"
+  },
+  "fer-": {
+    "POS": "PROPN"
+  },
+  "fe-": {
+    "POS": "PROPN"
+  },
+  "Argus": {
+    "POS": "PROPN"
+  },
+  "VeIrons": {
+    "POS": "PROPN"
+  },
+  "Cr": {
+    "POS": "PROPN"
+  },
+  "maine": {
+    "POS": "PROPN"
+  },
+  "Ondit": {
+    "POS": "PROPN"
+  },
+  "gueilleuse": {
+    "POS": "PROPN"
+  },
+  "hit": {
+    "POS": "PROPN"
+  },
+  "Charlotte": {
+    "POS": "PROPN"
+  },
+  "Lavall\u00e8re": {
+    "POS": "PROPN"
+  },
+  "r\u00e9pon-": {
+    "POS": "PROPN"
+  },
+  "Richelieu": {
+    "POS": "PROPN"
+  },
+  "1CI": {
+    "POS": "PROPN"
+  },
+  "Causa": {
+    "POS": "PROPN"
+  },
+  "Espagne": {
+    "POS": "PROPN"
+  },
+  "Lam\u00e9th": {
+    "POS": "PROPN"
+  },
+  "Ell\u00e9": {
+    "POS": "PROPN"
+  },
+  "En-": {
+    "POS": "PROPN"
+  },
+  "braset": {
+    "POS": "PROPN"
+  },
+  "sarr\u00e9ta": {
+    "POS": "PROPN"
+  },
+  "moi-": {
+    "POS": "PROPN"
+  },
+  "ob\u00e9irez": {
+    "POS": "PROPN"
+  },
+  "Jy": {
+    "POS": "PROPN"
+  },
+  "larr\u00eata": {
+    "POS": "PROPN"
+  },
+  "r\u00e9si-": {
+    "POS": "PROPN"
+  },
+  "Fr": {
+    "POS": "PROPN"
+  },
+  "Recevez": {
+    "POS": "PROPN"
+  },
+  "Dangeau": {
+    "POS": "PROPN"
+  },
+  "Langl\u00e9e": {
+    "POS": "PROPN"
+  },
+  "+77": {
+    "POS": "PROPN"
+  },
+  "Nest": {
+    "POS": "PROPN"
+  },
+  "lapprendre": {
+    "POS": "PROPN"
+  },
+  "nemie": {
+    "POS": "PROPN"
+  },
+  "AIM\u00c9E": {
+    "POS": "PROPN"
+  },
+  "JUSQUA": {
+    "POS": "PROPN"
+  },
+  "mi": {
+    "POS": "PROPN"
+  },
+  "nes-": {
+    "POS": "PROPN"
+  },
+  "prier": {
+    "POS": "PROPN"
+  },
+  "Adieu": {
+    "POS": "PROPN"
+  },
+  "Bcaupr\u00e9": {
+    "POS": "PROPN"
+  },
+  "\u00d4l": {
+    "POS": "PROPN"
+  },
+  "jat-": {
+    "POS": "PROPN"
+  },
+  "Joguet": {
+    "POS": "PROPN"
+  },
+  "mademai-": {
+    "POS": "PROPN"
+  },
+  "gra-": {
+    "POS": "PROPN"
+  },
+  "Bussi": {
+    "POS": "PROPN"
+  },
+  "cho-": {
+    "POS": "PROPN"
+  },
+  "pius": {
+    "POS": "PROPN"
+  },
+  "Ilen": {
+    "POS": "PROPN"
+  },
+  "Lid\u00e9e": {
+    "POS": "PROPN"
+  },
+  "jena": {
+    "POS": "PROPN"
+  },
+  "trouvez-": {
+    "POS": "PROPN"
+  },
+  "Na": {
+    "POS": "PROPN"
+  },
+  "Nais-": {
+    "POS": "PROPN"
+  },
+  "r\u00e9sistance": {
+    "POS": "PROPN"
+  },
+  "Jo-": {
+    "POS": "PROPN"
+  },
+  "guet": {
+    "POS": "PROPN"
+  },
+  "Corneille": {
+    "POS": "PROPN"
+  },
+  "Nicolle": {
+    "POS": "PROPN"
+  },
+  "l\u00e0-": {
+    "POS": "PROPN"
+  },
+  "gros-l\u00e0": {
+    "POS": "PROPN"
+  },
+  "Made-": {
+    "POS": "PROPN"
+  },
+  "ja": {
+    "POS": "PROPN"
+  },
+  "permettez": {
+    "POS": "PROPN"
+  },
+  "Hen": {
+    "POS": "PROPN"
+  },
+  "Quedois": {
+    "POS": "PROPN"
+  },
+  "repritmadame": {
+    "POS": "PROPN"
+  },
+  "Voyons": {
+    "POS": "PROPN"
+  },
+  "Etils": {
+    "POS": "PROPN"
+  },
+  "Joguel": {
+    "POS": "PROPN"
+  },
+  "Quen": {
+    "POS": "PROPN"
+  },
+  "Normandie": {
+    "POS": "PROPN"
+  },
+  "TR": {
+    "POS": "PROPN"
+  },
+  "appor": {
+    "POS": "PROPN"
+  },
+  "J\u00e9coute": {
+    "POS": "PROPN"
+  },
+  "Villeroi": {
+    "POS": "PROPN"
+  },
+  "dArtagan": {
+    "POS": "PROPN"
+  },
+  "nendurerez": {
+    "POS": "PROPN"
+  },
+  "Fontaine": {
+    "POS": "PROPN"
+  },
+  "Navez": {
+    "POS": "PROPN"
+  },
+  "comprends": {
+    "POS": "PROPN"
+  },
+  "sir": {
+    "POS": "PROPN"
+  },
+  "Enfer-": {
+    "POS": "PROPN"
+  },
+  "Beau-": {
+    "POS": "PROPN"
+  },
+  "jaime": {
+    "POS": "PROPN"
+  },
+  "j\u00e9crirais": {
+    "POS": "PROPN"
+  },
+  "sol\u00e9er": {
+    "POS": "PROPN"
+  },
+  "pir": {
+    "POS": "PROPN"
+  },
+  "dam": {
+    "POS": "PROPN"
+  },
+  "pis": {
+    "POS": "PROPN"
+  },
+  "OT": {
+    "POS": "PROPN"
+  },
+  "ESA": {
+    "POS": "PROPN"
+  },
+  "NNAEREN": {
+    "POS": "PROPN"
+  },
+  "PTT": {
+    "POS": "PROPN"
+  },
+  "TPE": {
+    "POS": "PROPN"
+  },
+  "TN": {
+    "POS": "PROPN"
+  },
+  "celu": {
+    "POS": "PROPN"
+  },
+  "Vivat": {
+    "POS": "PROPN"
+  },
+  "senferma": {
+    "POS": "PROPN"
+  },
+  "Garde-moi": {
+    "POS": "PROPN"
+  },
+  "re=": {
+    "POS": "PROPN"
+  },
+  "Mas": {
+    "POS": "PROPN"
+  },
+  "Flandre": {
+    "POS": "PROPN"
+  },
+  "Louis-le-Grand": {
+    "POS": "PROPN"
+  },
+  "D\u00c6": {
+    "POS": "PROPN"
+  },
+  "l\u00e9glise": {
+    "POS": "PROPN"
+  },
+  "Lors-": {
+    "POS": "PROPN"
+  },
+  "\u00e9tin-": {
+    "POS": "PROPN"
+  },
+  "royaume": {
+    "POS": "PROPN"
+  },
+  "lori-": {
+    "POS": "PROPN"
+  },
+  "Coucy": {
+    "POS": "PROPN"
+  },
+  "Raoul": {
+    "POS": "PROPN"
+  },
+  "Terre": {
+    "POS": "PROPN"
+  },
+  "Robert": {
+    "POS": "PROPN"
+  },
+  "Saint-Jean-dAcre": {
+    "POS": "PROPN"
+  },
+  "Pr\u00e9monir\u00e9": {
+    "POS": "PROPN"
+  },
+  "Dreux": {
+    "POS": "PROPN"
+  },
+  "Louis-le-Gros": {
+    "POS": "PROPN"
+  },
+  "Thomas": {
+    "POS": "PROPN"
+  },
+  "Vervins": {
+    "POS": "PROPN"
+  },
+  "\u00c9lisabeth": {
+    "POS": "PROPN"
+  },
+  "BINON": {
+    "POS": "PROPN"
+  },
+  "Bouvines": {
+    "POS": "PROPN"
+  },
+  "Guillaume": {
+    "POS": "PROPN"
+  },
+  "Ponthieu": {
+    "POS": "PROPN"
+  },
+  "Cr\u00e8vec\u0153ur": {
+    "POS": "PROPN"
+  },
+  "Ponthieux": {
+    "POS": "PROPN"
+  },
+  "Soissons": {
+    "POS": "PROPN"
+  },
+  "quilfit": {
+    "POS": "PROPN"
+  },
+  "Bourgogne": {
+    "POS": "PROPN"
+  },
+  "r\u00e9u-": {
+    "POS": "PROPN"
+  },
+  "union": {
+    "POS": "PROPN"
+  },
+  "Bar": {
+    "POS": "PROPN"
+  },
+  "Couey": {
+    "POS": "PROPN"
+  },
+  "Marie": {
+    "POS": "PROPN"
+  },
+  "lacquisi-": {
+    "POS": "PROPN"
+  },
+  "eut-": {
+    "POS": "PROPN"
+  },
+  "Christophe": {
+    "POS": "PROPN"
+  },
+  "Aixin": {
+    "POS": "PROPN"
+  },
+  "Lanissecourt": {
+    "POS": "PROPN"
+  },
+  "Clany": {
+    "POS": "PROPN"
+  },
+  "Thurin": {
+    "POS": "PROPN"
+  },
+  "Isabelle": {
+    "POS": "PROPN"
+  },
+  "Bayencourt": {
+    "POS": "PROPN"
+  },
+  "Antoine": {
+    "POS": "PROPN"
+  },
+  "chavannes": {
+    "POS": "PROPN"
+  },
+  "Quincy": {
+    "POS": "PROPN"
+  },
+  "Ce-": {
+    "POS": "PROPN"
+  },
+  "e1": {
+    "POS": "PROPN"
+  },
+  "Retz": {
+    "POS": "PROPN"
+  },
+  "Clermont": {
+    "POS": "PROPN"
+  },
+  "\u00celme": {
+    "POS": "PROPN"
+  },
+  "ruse": {
+    "POS": "PROPN"
+  },
+  "r\u00e9veuse": {
+    "POS": "PROPN"
+  },
+  "conte-": {
+    "POS": "PROPN"
+  },
+  "tra": {
+    "POS": "PROPN"
+  },
+  "D\u00cb": {
+    "POS": "PROPN"
+  },
+  "YISEON": {
+    "POS": "PROPN"
+  },
+  "dAnizy": {
+    "POS": "PROPN"
+  },
+  "Anizy": {
+    "POS": "PROPN"
+  },
+  "R\u00e9mi": {
+    "POS": "PROPN"
+  },
+  "\u00e9rigea": {
+    "POS": "PROPN"
+  },
+  "Bourbon": {
+    "POS": "PROPN"
+  },
+  "l\u00e9t\u00e9": {
+    "POS": "PROPN"
+  },
+  "accompa-": {
+    "POS": "PROPN"
+  },
+  "Monseigneur": {
+    "POS": "PROPN"
+  },
+  "\u00c9mine\u00f1ce": {
+    "POS": "PROPN"
+  },
+  "\u00e9lierr": {
+    "POS": "PROPN"
+  },
+  "mod\u00e9e": {
+    "POS": "PROPN"
+  },
+  "J\u00e9": {
+    "POS": "PROPN"
+  },
+  "Aniy": {
+    "POS": "PROPN"
+  },
+  "Emi-": {
+    "POS": "PROPN"
+  },
+  "Nirons": {
+    "POS": "PROPN"
+  },
+  "pr\u00e9ci-": {
+    "POS": "PROPN"
+  },
+  "toi-": {
+    "POS": "PROPN"
+  },
+  "e": {
+    "POS": "PROPN"
+  },
+  "pierrerles": {
+    "POS": "PROPN"
+  },
+  "largent": {
+    "POS": "PROPN"
+  },
+  "Quest": {
+    "POS": "PROPN"
+  },
+  "Quy": {
+    "POS": "PROPN"
+  },
+  "Napprochez": {
+    "POS": "PROPN"
+  },
+  "Lombre": {
+    "POS": "PROPN"
+  },
+  "enten-": {
+    "POS": "PROPN"
+  },
+  "Quai": {
+    "POS": "PROPN"
+  },
+  "v\u00eaque": {
+    "POS": "PROPN"
+  },
+  "les-": {
+    "POS": "PROPN"
+  },
+  "s\u00e9para\u00eft": {
+    "POS": "PROPN"
+  },
+  "deman-": {
+    "POS": "PROPN"
+  },
+  "rencontriez": {
+    "POS": "PROPN"
+  },
+  "lexcite": {
+    "POS": "PROPN"
+  },
+  "quikne": {
+    "POS": "PROPN"
+  },
+  "samuse": {
+    "POS": "PROPN"
+  },
+  "Deschamps": {
+    "POS": "PROPN"
+  },
+  "C\u0153ur": {
+    "POS": "PROPN"
+  },
+  "Roy": {
+    "POS": "PROPN"
+  },
+  "PINONX": {
+    "POS": "PROPN"
+  },
+  "Corcy": {
+    "POS": "PROPN"
+  },
+  "Gr\u00e2ces": {
+    "POS": "PROPN"
+  },
+  "Lamethr": {
+    "POS": "PROPN"
+  },
+  "Pi-": {
+    "POS": "PROPN"
+  },
+  "vagance": {
+    "POS": "PROPN"
+  },
+  "jentends": {
+    "POS": "PROPN"
+  },
+  "Fiesque": {
+    "POS": "PROPN"
+  },
+  "BELLES": {
+    "POS": "PROPN"
+  },
+  "AMOURS": {
+    "POS": "PROPN"
+  },
+  "sempressa": {
+    "POS": "PROPN"
+  },
+  "l\u00e9v\u00eaque": {
+    "POS": "PROPN"
+  },
+  "calmez-": {
+    "POS": "PROPN"
+  },
+  "L\u00e9v\u00eaque": {
+    "POS": "PROPN"
+  },
+  "SOINS": {
+    "POS": "PROPN"
+  },
+  "demanda-": {
+    "POS": "PROPN"
+  },
+  "Jenemeniraipas": {
+    "POS": "PROPN"
+  },
+  "Etje": {
+    "POS": "PROPN"
+  },
+  "repliqua": {
+    "POS": "PROPN"
+  },
+  "futle": {
+    "POS": "PROPN"
+  },
+  "DK": {
+    "POS": "PROPN"
+  },
+  "R\u00e9mond": {
+    "POS": "PROPN"
+  },
+  "ru": {
+    "POS": "PROPN"
+  },
+  "je-": {
+    "POS": "PROPN"
+  },
+  "cal-": {
+    "POS": "PROPN"
+  },
+  "mer": {
+    "POS": "PROPN"
+  },
+  "dArtagnan": {
+    "POS": "PROPN"
+  },
+  "Cavois": {
+    "POS": "PROPN"
+  },
+  "nom-": {
+    "POS": "PROPN"
+  },
+  "Grignan": {
+    "POS": "PROPN"
+  },
+  "Sait": {
+    "POS": "PROPN"
+  },
+  "mys-": {
+    "POS": "PROPN"
+  },
+  "Etqu": {
+    "POS": "PROPN"
+  },
+  "f63": {
+    "POS": "PROPN"
+  },
+  "F\u00e9t\u00e9ndit": {
+    "POS": "PROPN"
+  },
+  "Vilieroi": {
+    "POS": "PROPN"
+  },
+  "reve-": {
+    "POS": "PROPN"
+  },
+  "ser-": {
+    "POS": "PROPN"
+  },
+  "crai-": {
+    "POS": "PROPN"
+  },
+  "Bouillon": {
+    "POS": "PROPN"
+  },
+  "Marie-Charlotte": {
+    "POS": "PROPN"
+  },
+  "t-1l": {
+    "POS": "PROPN"
+  },
+  "Li\u00e9": {
+    "POS": "PROPN"
+  },
+  "Quarrivera": {
+    "POS": "PROPN"
+  },
+  "Re\u00e7ue": {
+    "POS": "PROPN"
+  },
+  "sonarriv\u00e9e": {
+    "POS": "PROPN"
+  },
+  "mont": {
+    "POS": "PROPN"
+  },
+  "lor": {
+    "POS": "PROPN"
+  },
+  "Etles": {
+    "POS": "PROPN"
+  },
+  "HE": {
+    "POS": "PROPN"
+  },
+  "toul": {
+    "POS": "PROPN"
+  },
+  "veus": {
+    "POS": "PROPN"
+  },
+  "\u00cfl": {
+    "POS": "PROPN"
+  },
+  "j\u00e9prouvai": {
+    "POS": "PROPN"
+  },
+  "J\u00e9prouvai": {
+    "POS": "PROPN"
+  },
+  "\u00fcne": {
+    "POS": "PROPN"
+  },
+  "aurais": {
+    "POS": "PROPN"
+  },
+  "es-": {
+    "POS": "PROPN"
+  },
+  "Jattends": {
+    "POS": "PROPN"
+  },
+  "Gharles": {
+    "POS": "PROPN"
+  },
+  "Amanieux": {
+    "POS": "PROPN"
+  },
+  "PE": {
+    "POS": "PROPN"
+  },
+  "TIR": {
+    "POS": "PROPN"
+  },
+  "loubli": {
+    "POS": "PROPN"
+  },
+  "Jl": {
+    "POS": "PROPN"
+  },
+  "Gest": {
+    "POS": "PROPN"
+  },
+  "Etil": {
+    "POS": "PROPN"
+  },
+  "ane": {
+    "POS": "PROPN"
+  },
+  "NUE": {
+    "POS": "PROPN"
+  },
+  "PET": {
+    "POS": "PROPN"
+  },
+  "RAT": {
+    "POS": "PROPN"
+  },
+  "chir\u00e9": {
+    "POS": "PROPN"
+  },
+  "nas": {
+    "POS": "PROPN"
+  },
+  "Apporte": {
+    "POS": "PROPN"
+  },
+  "DO": {
+    "POS": "PROPN"
+  },
+  "C\u00e9ries": {
+    "POS": "PROPN"
+  },
+  "J\u00e9i": {
+    "POS": "PROPN"
+  },
+  "d\u00e4n$": {
+    "POS": "PROPN"
+  },
+  "nyse": {
+    "POS": "PROPN"
+  },
+  "Yo\u00fcs": {
+    "POS": "PROPN"
+  },
+  "\u00c9est": {
+    "POS": "PROPN"
+  },
+  "Leds": {
+    "POS": "PROPN"
+  },
+  "Japer\u00e7ois": {
+    "POS": "PROPN"
+  },
+  "-185": {
+    "POS": "PROPN"
+  },
+  "baisapt": {
+    "POS": "PROPN"
+  },
+  "Henrielte": {
+    "POS": "PROPN"
+  },
+  "il\u00e9": {
+    "POS": "PROPN"
+  },
+  "M\u00f4n": {
+    "POS": "PROPN"
+  },
+  "tmari": {
+    "POS": "PROPN"
+  },
+  "Emmenez": {
+    "POS": "PROPN"
+  },
+  "lors-": {
+    "POS": "PROPN"
+  },
+  "maimerez": {
+    "POS": "PROPN"
+  },
+  "n\u00e9an-": {
+    "POS": "PROPN"
+  },
+  "Corey": {
+    "POS": "PROPN"
+  },
+  "SAR": {
+    "POS": "PROPN"
+  },
+  "TSI": {
+    "POS": "PROPN"
+  },
+  "RAGE": {
+    "POS": "PROPN"
+  },
+  "Zr\u00e9rue": {
+    "POS": "PROPN"
+  },
+  "RNQT": {
+    "POS": "PROPN"
+  },
+  "LTPP": {
+    "POS": "PROPN"
+  },
+  "laccompagneront": {
+    "POS": "PROPN"
+  },
+  "F\u00eatre": {
+    "POS": "PROPN"
+  },
+  "do\u00f9": {
+    "POS": "PROPN"
+  },
+  "Nomme": {
+    "POS": "PROPN"
+  },
+  "dhier": {
+    "POS": "PROPN"
+  },
+  "LEE": {
+    "POS": "PROPN"
+  },
+  "Etle": {
+    "POS": "PROPN"
+  },
+  "Vi-": {
+    "POS": "PROPN"
+  },
+  "lespoir": {
+    "POS": "PROPN"
+  },
+  "Monsei-": {
+    "POS": "PROPN"
+  },
+  "l\u00c9glise": {
+    "POS": "PROPN"
+  },
+  "NousnousamuseronsbeaucoupNousirons": {
+    "POS": "PROPN"
+  },
+  "drez": {
+    "POS": "PROPN"
+  },
+  "len-": {
+    "POS": "PROPN"
+  },
+  "gagen": {
+    "POS": "PROPN"
+  },
+  "duisan{e": {
+    "POS": "PROPN"
+  },
+  "vor": {
+    "POS": "PROPN"
+  },
+  "Madar\u00efe": {
+    "POS": "PROPN"
+  },
+  "Pichard": {
+    "POS": "PROPN"
+  },
+  "Quoiquil": {
+    "POS": "PROPN"
+  },
+  "co\u00fbt\u00e2t": {
+    "POS": "PROPN"
+  },
+  "Jaquais": {
+    "POS": "PROPN"
+  },
+  "Lambert": {
+    "POS": "PROPN"
+  },
+  "\u00c9t": {
+    "POS": "PROPN"
+  },
+  "cor-": {
+    "POS": "PROPN"
+  },
+  "Ilaura": {
+    "POS": "PROPN"
+  },
+  "Quil": {
+    "POS": "PROPN"
+  },
+  "Lautre": {
+    "POS": "PROPN"
+  },
+  "Fronde": {
+    "POS": "PROPN"
+  },
+  "Mazarin": {
+    "POS": "PROPN"
+  },
+  "traita": {
+    "POS": "PROPN"
+  },
+  "d\u00c9tr\u00e9es": {
+    "POS": "PROPN"
+  },
+  "Enguerrand": {
+    "POS": "PROPN"
+  },
+  "Ilny": {
+    "POS": "PROPN"
+  },
+  "ent\u00e9es": {
+    "POS": "PROPN"
+  },
+  "mainte-": {
+    "POS": "PROPN"
+  },
+  "pos-": {
+    "POS": "PROPN"
+  },
+  "rui-": {
+    "POS": "PROPN"
+  },
+  "Egoi\u00efste": {
+    "POS": "PROPN"
+  },
+  "inquiet": {
+    "POS": "PROPN"
+  },
+  "ou-": {
+    "POS": "PROPN"
+  },
+  "Jourdieu": {
+    "POS": "PROPN"
+  },
+  "isolemeht": {
+    "POS": "PROPN"
+  },
+  "-E": {
+    "POS": "PROPN"
+  },
+  "reti-": {
+    "POS": "PROPN"
+  },
+  "NousdemeureronstouteslesdeuxVousprendrez": {
+    "POS": "PROPN"
+  },
+  "Ch\u00e8re": {
+    "POS": "PROPN"
+  },
+  "Ei": {
+    "POS": "PROPN"
+  },
+  "Devinez": {
+    "POS": "PROPN"
+  },
+  "Taisez": {
+    "POS": "PROPN"
+  },
+  "ns": {
+    "POS": "PROPN"
+  },
+  "del": {
+    "POS": "PROPN"
+  },
+  "Quon": {
+    "POS": "PROPN"
+  },
+  "qns": {
+    "POS": "PROPN"
+  },
+  "Lesprit": {
+    "POS": "PROPN"
+  },
+  "bravade": {
+    "POS": "PROPN"
+  },
+  "PIN": {
+    "POS": "PROPN"
+  },
+  "RTE": {
+    "POS": "PROPN"
+  },
+  "BOT": {
+    "POS": "PROPN"
+  },
+  "Ven": {
+    "POS": "PROPN"
+  },
+  "TS": {
+    "POS": "PROPN"
+  },
+  "ART": {
+    "POS": "PROPN"
+  },
+  "DEP": {
+    "POS": "PROPN"
+  },
+  "ur": {
+    "POS": "PROPN"
+  },
+  "j\u00e9idre": {
+    "POS": "PROPN"
+  },
+  "c\u00e4r": {
+    "POS": "PROPN"
+  },
+  "cF2": {
+    "POS": "PROPN"
+  },
+  "Amy": {
+    "POS": "PROPN"
+  },
+  "p\u00e9isonne": {
+    "POS": "PROPN"
+  },
+  "HMinpit": {
+    "POS": "PROPN"
+  },
+  "Marchons": {
+    "POS": "PROPN"
+  },
+  "Bre": {
+    "POS": "PROPN"
+  },
+  "224": {
+    "POS": "PROPN"
+  },
+  "Iciils": {
+    "POS": "PROPN"
+  },
+  "I\u0178": {
+    "POS": "PROPN"
+  },
+  "feuse": {
+    "POS": "PROPN"
+  },
+  "Fayel": {
+    "POS": "PROPN"
+  },
+  "rap-": {
+    "POS": "PROPN"
+  },
+  "Vergy": {
+    "POS": "PROPN"
+  },
+  "Ga-": {
+    "POS": "PROPN"
+  },
+  "dHenri": {
+    "POS": "PROPN"
+  },
+  "Tcielle": {
+    "POS": "PROPN"
+  },
+  "in\u00e9-": {
+    "POS": "PROPN"
+  },
+  "Yitable": {
+    "POS": "PROPN"
+  },
+  "Pl\u00fbt": {
+    "POS": "PROPN"
+  },
+  "Boh\u00e9mienne": {
+    "POS": "PROPN"
+  },
+  "quaujour-": {
+    "POS": "PROPN"
+  },
+  "D\u00e9daign\u00e9": {
+    "POS": "PROPN"
+  },
+  "jattendrai": {
+    "POS": "PROPN"
+  },
+  "EXPLICATION": {
+    "POS": "PROPN"
+  },
+  "Saint-Quentin": {
+    "POS": "PROPN"
+  },
+  "CHATTAU": {
+    "POS": "PROPN"
+  },
+  "Aimez": {
+    "POS": "PROPN"
+  },
+  "Villers-Cotterets": {
+    "POS": "PROPN"
+  },
+  "Manquerai": {
+    "POS": "PROPN"
+  },
+  "St": {
+    "POS": "PROPN"
+  },
+  "Villers-Cotierets": {
+    "POS": "PROPN"
+  },
+  "Lorgueil": {
+    "POS": "PROPN"
+  },
+  "atiendre": {
+    "POS": "PROPN"
+  },
+  "Coi\u00efffe": {
+    "POS": "PROPN"
+  },
+  "Tranquil-": {
+    "POS": "PROPN"
+  },
+  "Etes": {
+    "POS": "PROPN"
+  },
+  "ebarrass\u00e9s": {
+    "POS": "PROPN"
+  },
+  "maccuse": {
+    "POS": "PROPN"
+  },
+  "rirez": {
+    "POS": "PROPN"
+  },
+  "d\u00e9shonoriez": {
+    "POS": "PROPN"
+  },
+  "Jaime": {
+    "POS": "PROPN"
+  },
+  "Sil": {
+    "POS": "PROPN"
+  },
+  "Lametbh": {
+    "POS": "PROPN"
+  },
+  "Puisquil": {
+    "POS": "PROPN"
+  },
+  "Cesl": {
+    "POS": "PROPN"
+  },
+  "\u00c2imez": {
+    "POS": "PROPN"
+  },
+  "Jeme": {
+    "POS": "PROPN"
+  },
+  "g\u00ea-": {
+    "POS": "PROPN"
+  },
+  "mob\u00e9ir": {
+    "POS": "PROPN"
+  },
+  "premi\u00e9re": {
+    "POS": "PROPN"
+  },
+  "Autrement": {
+    "POS": "PROPN"
+  },
+  "954": {
+    "POS": "PROPN"
+  },
+  "Trouvez-": {
+    "POS": "PROPN"
+  },
+  "jaimerai": {
+    "POS": "PROPN"
+  },
+  "V\u00e4imera": {
+    "POS": "PROPN"
+  },
+  "entendez-": {
+    "POS": "PROPN"
+  },
+  "Morsieur": {
+    "POS": "PROPN"
+  },
+  "F\u00e9pondre": {
+    "POS": "PROPN"
+  },
+  "avaie\u00f1l": {
+    "POS": "PROPN"
+  },
+  "Jogu\u00eat": {
+    "POS": "PROPN"
+  },
+  "\u00ce": {
+    "POS": "PROPN"
+  },
+  "Cou\u00eby": {
+    "POS": "PROPN"
+  },
+  "Gorey": {
+    "POS": "PROPN"
+  },
+  "b59": {
+    "POS": "PROPN"
+  },
+  "\u00e9o\u00f1ime": {
+    "POS": "PROPN"
+  },
+  "fidence": {
+    "POS": "PROPN"
+  },
+  "\u00efne": {
+    "POS": "PROPN"
+  },
+  "madai\u00efne": {
+    "POS": "PROPN"
+  },
+  "Cor\u00e9y": {
+    "POS": "PROPN"
+  },
+  "voye": {
+    "POS": "PROPN"
+  },
+  "Corcy\u00ff": {
+    "POS": "PROPN"
+  },
+  "saperce-": {
+    "POS": "PROPN"
+  },
+  "PISON": {
+    "POS": "PROPN"
+  },
+  "Lopison": {
+    "POS": "PROPN"
+  },
+  "Jenaime": {
+    "POS": "PROPN"
+  },
+  "Avee": {
+    "POS": "PROPN"
+  },
+  "Quallons": {
+    "POS": "PROPN"
+  },
+  "nousfare": {
+    "POS": "PROPN"
+  },
+  "Adien": {
+    "POS": "PROPN"
+  },
+  "Joguei": {
+    "POS": "PROPN"
+  },
+  "lirons": {
+    "POS": "PROPN"
+  },
+  "Chapelain": {
+    "POS": "PROPN"
+  },
+  "clefde": {
+    "POS": "PROPN"
+  },
+  "Grois": {
+    "POS": "PROPN"
+  },
+  "Jaire\u00e7u": {
+    "POS": "PROPN"
+  },
+  "\u00e9cuyer": {
+    "POS": "PROPN"
+  },
+  "Lamethse": {
+    "POS": "PROPN"
+  },
+  "\u00e9loi-": {
+    "POS": "PROPN"
+  },
+  "dames-": {
+    "POS": "PROPN"
+  },
+  "Peux": {
+    "POS": "PROPN"
+  },
+  "Vo\u00f1s": {
+    "POS": "PROPN"
+  },
+  "enti\u00e8re-": {
+    "POS": "PROPN"
+  },
+  "aban-": {
+    "POS": "PROPN"
+  },
+  "Schomberg": {
+    "POS": "PROPN"
+  },
+  "CHA\u00cfHAU": {
+    "POS": "PROPN"
+  },
+  "Ya": {
+    "POS": "PROPN"
+  },
+  "S\u00e9ulemi\u00ebnt": {
+    "POS": "PROPN"
+  },
+  "pout-": {
+    "POS": "PROPN"
+  },
+  "d\u00f4rt": {
+    "POS": "PROPN"
+  },
+  "p\u00e9ut": {
+    "POS": "PROPN"
+  },
+  "Ayons": {
+    "POS": "PROPN"
+  },
+  "Yage": {
+    "POS": "PROPN"
+  },
+  "GHA\u00cfEAU": {
+    "POS": "PROPN"
+  },
+  "maba\u00efd\u00f4nne": {
+    "POS": "PROPN"
+  },
+  "Hotis": {
+    "POS": "PROPN"
+  },
+  "My": {
+    "POS": "PROPN"
+  },
+  "arquebuse": {
+    "POS": "PROPN"
+  },
+  "RETOUR": {
+    "POS": "PROPN"
+  },
+  "obsti-": {
+    "POS": "PROPN"
+  },
+  "darbitt\u00e9": {
+    "POS": "PROPN"
+  },
+  "trouv\u00e8-": {
+    "POS": "PROPN"
+  },
+  "lappela": {
+    "POS": "PROPN"
+  },
+  "NH": {
+    "POS": "PROPN"
+  },
+  "Co": {
+    "POS": "PROPN"
+  },
+  "mentendre": {
+    "POS": "PROPN"
+  },
+  "COTTESpOn=": {
+    "POS": "PROPN"
+  },
+  "rever-": {
+    "POS": "PROPN"
+  },
+  "culer": {
+    "POS": "PROPN"
+  },
+  "jesuis": {
+    "POS": "PROPN"
+  },
+  "lais-": {
+    "POS": "PROPN"
+  },
+  "conlinu\u00e8rent": {
+    "POS": "PROPN"
+  },
+  "Lea": {
+    "POS": "PROPN"
+  },
+  "Chavignon": {
+    "POS": "PROPN"
+  },
+  "lat-": {
+    "POS": "PROPN"
+  },
+  "Blanche": {
+    "POS": "PROPN"
+  },
+  "Lamibe\u00eft": {
+    "POS": "PROPN"
+  },
+  "No\u00f1": {
+    "POS": "PROPN"
+  },
+  "Pi\u00e9hard": {
+    "POS": "PROPN"
+  },
+  "Cha\u00efl\u00e9s": {
+    "POS": "PROPN"
+  },
+  "Ama-": {
+    "POS": "PROPN"
+  },
+  "Larneth": {
+    "POS": "PROPN"
+  },
+  "Yous": {
+    "POS": "PROPN"
+  },
+  "Noyon": {
+    "POS": "PROPN"
+  },
+  "Comprenez-": {
+    "POS": "PROPN"
+  },
+  "gne": {
+    "POS": "PROPN"
+  },
+  "Perisez": {
+    "POS": "PROPN"
+  },
+  "Jenele": {
+    "POS": "PROPN"
+  },
+  "Dubois": {
+    "POS": "PROPN"
+  },
+  "Courval": {
+    "POS": "PROPN"
+  },
+  "dHa\u00ef-": {
+    "POS": "PROPN"
+  },
+  "Voudriez": {
+    "POS": "PROPN"
+  },
+  "lui-": {
+    "POS": "PROPN"
+  },
+  "m\u00e9me": {
+    "POS": "PROPN"
+  },
+  "Recevrez": {
+    "POS": "PROPN"
+  },
+  "-PINON": {
+    "POS": "PROPN"
+  },
+  "Etsi": {
+    "POS": "PROPN"
+  },
+  "laimez": {
+    "POS": "PROPN"
+  },
+  "PIFON": {
+    "POS": "PROPN"
+  },
+  "lau-": {
+    "POS": "PROPN"
+  },
+  "lh\u00f4te": {
+    "POS": "PROPN"
+  },
+  "SOISSONS": {
+    "POS": "PROPN"
+  },
+  "lhon-": {
+    "POS": "PROPN"
+  },
+  "Lambertremit": {
+    "POS": "PROPN"
+  },
+  "deCoucy": {
+    "POS": "PROPN"
+  },
+  "duedOr-": {
+    "POS": "PROPN"
+  },
+  "etsuivie": {
+    "POS": "PROPN"
+  },
+  "pour-": {
+    "POS": "PROPN"
+  },
+  "304": {
+    "POS": "PROPN"
+  },
+  "futsous": {
+    "POS": "PROPN"
+  },
+  "sin-": {
+    "POS": "PROPN"
+  },
+  "ba\u00eflli": {
+    "POS": "PROPN"
+  },
+  "galantin": {
+    "POS": "PROPN"
+  },
+  "jemhabille": {
+    "POS": "PROPN"
+  },
+  "sirarement": {
+    "POS": "PROPN"
+  },
+  "Delette": {
+    "POS": "PROPN"
+  },
+  "Lacomtesse": {
+    "POS": "PROPN"
+  },
+  "nonc\u00e9": {
+    "POS": "PROPN"
+  },
+  "ravie": {
+    "POS": "PROPN"
+  },
+  "lesclavage": {
+    "POS": "PROPN"
+  },
+  "Lhorloge": {
+    "POS": "PROPN"
+  },
+  "Pour-": {
+    "POS": "PROPN"
+  },
+  "ba\u00efilli": {
+    "POS": "PROPN"
+  },
+  "A\u00c0": {
+    "POS": "PROPN"
+  },
+  "Incons\u00e9quence": {
+    "POS": "PROPN"
+  },
+  "Loreille": {
+    "POS": "PROPN"
+  },
+  "gard": {
+    "POS": "PROPN"
+  },
+  "Anisy": {
+    "POS": "PROPN"
+  },
+  "lespace": {
+    "POS": "PROPN"
+  },
+  "Croix": {
+    "POS": "PROPN"
+  },
+  "Blanch\u00e9": {
+    "POS": "PROPN"
+  },
+  "bert": {
+    "POS": "PROPN"
+  },
+  "coi-": {
+    "POS": "PROPN"
+  },
+  "recluse": {
+    "POS": "PROPN"
+  },
+  "nu\u00eft": {
+    "POS": "PROPN"
+  },
+  "\u00fcllon": {
+    "POS": "PROPN"
+  },
+  "nae": {
+    "POS": "PROPN"
+  },
+  "france": {
+    "POS": "PROPN"
+  },
+  "Nsetut": {
+    "POS": "PROPN"
+  },
+  "Aatamatt": {
+    "POS": "PROPN"
+  },
+  "reten-": {
+    "POS": "PROPN"
+  },
+  "riposta": {
+    "POS": "PROPN"
+  },
+  "a1": {
+    "POS": "PROPN"
+  },
+  "PIKON": {
+    "POS": "PROPN"
+  },
+  "Croyez-": {
+    "POS": "PROPN"
+  },
+  "Montrez": {
+    "POS": "PROPN"
+  },
+  "lexpliquer": {
+    "POS": "PROPN"
+  },
+  "Interrogez": {
+    "POS": "PROPN"
+  },
+  "chard": {
+    "POS": "PROPN"
+  },
+  "ajoula": {
+    "POS": "PROPN"
+  },
+  "cup\u00e9e": {
+    "POS": "PROPN"
+  },
+  "ati": {
+    "POS": "PROPN"
+  },
+  "Arriv\u00e9e": {
+    "POS": "PROPN"
+  },
+  "DRE": {
+    "POS": "PROPN"
+  }
+}

@@ -1,0 +1,2 @@
+Auteur;Fichier;OCR;VP;FP;FN;Précision;Rappel;F-score
+DASH;DASH_chateau-de-Pinon-V1;Kraken-base;300;96;484;0.7575757575757576;0.3826530612244898;0.5084745762711864
