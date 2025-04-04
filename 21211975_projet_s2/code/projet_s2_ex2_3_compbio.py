@@ -90,7 +90,6 @@ for auteur in os.listdir(dossier_principal): ## Boucle sur chaque auteur
                         precision, rappel, fscore = calculer_scores(VP, FP, FN)#calcul des métriques de performance: Précision, Rappel, F-score
                         #print(auteur, nom_fichier, ocr_type,VP, FP, FN,precision, rappel, fscore) #affichage des résultats
 
-'''Sauvegarde des résultats'''
                         fichier_sortie = os.path.join(dossier_scores, f"{auteur}_{nom_fichier}_{ocr_type}_scores.csv")
                         with open(fichier_sortie, "w", newline="", encoding="utf-8") as f:
                             writer = csv.writer(f, delimiter=';')

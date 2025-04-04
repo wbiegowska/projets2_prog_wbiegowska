@@ -44,7 +44,7 @@ def nettoyer_texte(texte): #Paramètre: texte (chaine de caracteres)
 #4:Analyse du texte avec spaCy
 
 def nlp_spacy(texte): # paramètres : texte (chaîne de caractères)
-    nlp = spacy.load("fr_core_news_lg") #charge le modèle de langue français de spaCy
+    nlp = spacy.load("fr_core_news_sm") #charge le modèle de langue français de spaCy
     doc = nlp(texte) #analyse le texte avec spaCy
     return doc # retourne l'objet spaCy (doc) contenant l'analyse linguistique 
 

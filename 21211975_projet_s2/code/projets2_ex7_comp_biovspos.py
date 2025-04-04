@@ -94,7 +94,7 @@ resultats_comparaison = traiter_comparaisons(chemin_resultats) #appelle une font
 
 # Affichage des résultats
 for auteur, comparaisons_ocr in resultats_comparaison.items():
-    print(f"\nAuteur : {auteur}")
+    print(f"\n{'='*20} Auteur: {auteur} {'='*20}") #affichage du nom de l'auteyr
     for type_ocr, comparaison in comparaisons_ocr.items():
         print(f"\nOCR : {type_ocr}")
         print(f"Entités nommées BIO : {comparaison['entites_nommees_bio']}")
